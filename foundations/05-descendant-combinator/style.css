@@ -1,0 +1,6 @@
+div.container > p {
+    color: red;
+    background-color: yellow;
+    size: 20px;
+    text-align: center;
+}
